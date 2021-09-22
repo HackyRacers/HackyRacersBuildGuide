@@ -45,3 +45,4 @@ Tools and Equipment
     "Exotic" tools,
 
 Example Build Logs
+What not to do - a history of things that didn't go quite right.
