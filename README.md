@@ -1,4 +1,4 @@
-# HackyRacersBuildGuide
+# Hacky Racers Build Guide
 
 This project is under construction, and not yet complete.
 Guidance for anyone wishing to build a Hacky Racer!
