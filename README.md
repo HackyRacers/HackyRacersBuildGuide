@@ -14,35 +14,35 @@ Want to get involved? This is the right place to find some guidance on your buil
 This repository (will) contain multiple documents containing information about all respective parts of construction, and racing of your vehicle.
 
 A note about Hacky Racers, many people think that to build a racer you need to have many skills and have access to lots of equipment such as welders, while these can be helpful it is very possible to build a competitive racer with basic tools and off the shelf conponents.
-General Overview:
-    Rules,
-    Bill of Materials,
-    Tech Check,
-    Safety Equipment,
-    Moxie,
+- General Overview:
+    - Rules,
+    - Bill of Materials,
+    - Tech Check,
+    - Safety Equipment,
+    - Moxie,
 
 
-Powertrain Electrical Systems:
-    Batteries,
-    Motors,
-    Motor Controllers, drivers or ESCs,
-    Wiring & Connectors,
-    Safety Items:
-        Isolator Switch,
-        Rule mandated fuse,
+- Powertrain Electrical Systems:
+    - Batteries,
+    - Motors,
+    - Motor Controllers, drivers or ESCs,
+    - Wiring & Connectors,
+- Safety Items:
+      - Isolator Switch,
+      - Rule mandated fuse,
 
-Chassis:
-    Typical Donors,
-    Scratch Build Tips,
-    Consumer off the shelf components,
-    Design examples,
+- Chassis:
+    - Typical Donors,
+    - Scratch Build Tips,
+    - Consumer off the shelf components,
+    - Design examples,
     
 
-Tools and Equipment
-    Charging Equipment,
-    Basic Hand Tools,
-    Access to tools you may not have, but could be handy,
-    "Exotic" tools,
+- Tools and Equipment
+    - Charging Equipment,
+    - Basic Hand Tools,
+    - Access to tools you may not have, but could be handy,
+    - "Exotic" tools,
 
-Example Build Logs
-What not to do - a history of things that didn't go quite right.
+- Example Build Logs
+- What not to do - a history of things that didn't go quite right.
