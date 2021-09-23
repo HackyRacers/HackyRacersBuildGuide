@@ -2,7 +2,7 @@
 
 This project is under construction, and not yet complete.
 Guidance for anyone wishing to build a Hacky Racer!
-https://www.hackyracers.co.uk
+http://www.hackyracers.co.uk
 
 # Cheap, small electric vehicle racing.
 Hacky Racers is a community of likeminded people who build and race small electric vehicles to a set of rules.
