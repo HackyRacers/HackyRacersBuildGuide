@@ -11,6 +11,7 @@ Hacky Racers are electric vehicles, therefore they need some sort of power suppl
 More detailed information about batteries can be found in the rules.
 
 There are a few different types of batteries that are applicable and allowed for use in Hacky Racers. These are:
+
 	* SLA: Sealed Lead acid
 	* AGM: Abosrbed Glass Mat Lead acid
 	* Ni-Cd: Nickel-Cadmium
